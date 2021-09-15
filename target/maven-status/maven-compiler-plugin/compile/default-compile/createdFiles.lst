@@ -1,0 +1,7 @@
+com\chitChat\ChatsApplication$1.class
+com\chitChat\ChatsApplication.class
+com\chitChat\core\DefaultUserRepository.class
+com\chitChat\core\UserRepository.class
+com\chitChat\resources\UserResource.class
+com\chitChat\ChatsConfiguration.class
+com\chitChat\api\User.class

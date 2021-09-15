@@ -1,0 +1,10 @@
+logging:
+  level: INFO
+  loggers:
+    com.chitChat: DEBUG
+
+server:
+  rootPath: /*
+
+swagger:
+  resourcePackage: com.chitChat, com.chitChat.api, com.chitChat.core, com.chitChat.resources
